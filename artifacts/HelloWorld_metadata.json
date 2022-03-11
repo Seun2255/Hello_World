@@ -108,9 +108,9 @@
 	},
 	"sources": {
 		"HelloWorld.sol": {
-			"keccak256": "0x716f4594e7a4df7aa4e1a24586be84e9695fa407e5d688317133720b0bd6b8ec",
+			"keccak256": "0x661d3b0da4822c1973fbed166b35807941f3f4e6ee3884898cb2866bc6022519",
 			"urls": [
-				"bzzr://26ec6b8728af67fa26b88b9baac69b56a6c4bfcce104e7c579336d62a2815b25"
+				"bzzr://838cf22d4728f24e1e692e78e897f9143e4680cd398de90100aa7b3cb83385f8"
 			]
 		}
 	},
